@@ -1,0 +1,86 @@
+.mydivhf{
+   
+    position: relative;;
+    /* top: 45%;
+    left: 50%;
+    margin-top: -18%; 
+    margin-left: -13%;
+    min-width:30%;
+    max-width:auto; 
+    margin-right:20vh;
+   /* min-height:relative;
+    max-height:auto; */
+    margin-left: 55vh;
+    width: 90vh
+
+}
+.imgform{
+    min-height:100vh;
+    max-height: auto;
+}
+.hotelformb {
+    background-image: url("../image/bg1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;  
+    background-size: cover;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    position: relative;
+    min-height:100vh;
+    max-height: auto;
+    background-attachment: scroll;
+  }
+  .errorMsg{
+      color: blue;
+  }
+  .cs{
+    display: block;
+    position: relative;
+    padding-left: 15px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: normal;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  .cs1{
+    
+    display: block;
+    position: relative;
+    padding-left: 15px;
+    padding-right:50px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: normal;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  label{
+    font-weight:normal;
+  }  
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+/* .pink-textarea textarea.md-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #f48fb1;
+    box-shadow: 0 1px 0 0 #f48fb1;
+}
+.active-pink-textarea.md-form label.active {
+    color: #f48fb1;
+} */
+.btn-default {
+  background:linear-gradient(40deg, #075b56, #839ba6) !important;
+  color: #fff;
+}

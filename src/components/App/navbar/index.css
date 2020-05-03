@@ -1,0 +1,26 @@
+.navBar{
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: 120;
+    position: inherit;
+    white-space: pre-wrap;
+  }
+  .navBar {
+    padding: 20px;
+  }
+  .boldw{
+    font-weight: bold;
+  }
+
+  .mydiv1{
+        
+    position:absolute;
+    top: 40%;
+    left: 50%;
+    margin-top: -20%; /*set to a negative number 1/2 of your height*/
+    margin-left: -40%; /*set to a negative number 1/2 of your width*/
+    width: 80%;
+    height: 55%;
+  
+  }
+  

@@ -1,0 +1,33 @@
+.mydiva{
+   
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -10%; /*set to a negative number 1/2 of your height*/
+    margin-left: -12.5%; /*set to a negative number 1/2 of your width*/
+    background-attachment: scroll;
+    width:30%
+   
+
+}
+.rgba-stylish-strong {
+    background-color: white;
+}
+
+.hliststyle{
+    padding:5vh;
+    position:relative;
+    display: flex;
+   flex-wrap: wrap;
+   
+
+}
+.hstyle{
+   padding:0.5vh;
+   padding-left: 3vh;
+   padding-bottom: 3vh;
+  
+}
+.imgcard{
+    height:19vh;
+ }

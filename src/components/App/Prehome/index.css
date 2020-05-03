@@ -1,0 +1,22 @@
+.mydiv{
+        
+        position:absolute;
+        top: 70%;
+        left: 55%;
+        margin-top: -30%; /*set to a negative number 1/2 of your height*/
+        margin-left: -12.5%; /*set to a negative number 1/2 of your width*/
+        width: 50%;
+      
+      }
+
+      .mydiv1{
+        
+        position:absolute;
+        top: 65%;
+        left: 50%;
+        margin-top: -20%; /*set to a negative number 1/2 of your height*/
+        margin-left: -20%; /*set to a negative number 1/2 of your width*/
+        width: 80%;
+        height: 55%;
+      
+      }
